@@ -1,0 +1,8 @@
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\bin\Debug\31JulyAssignment19P-1.exe.config
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\bin\Debug\31JulyAssignment19P-1.exe
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\bin\Debug\31JulyAssignment19P-1.pdb
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\obj\Debug\31JulyAssignment19P-1.csproj.AssemblyReference.cache
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\obj\Debug\31JulyAssignment19P-1.csproj.SuggestedBindingRedirects.cache
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\obj\Debug\31JulyAssignment19P-1.csproj.CoreCompileInputs.cache
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\obj\Debug\31JulyAssignment19P-1.exe
+D:\31July\31JulyAssignment19P-1\31JulyAssignment19P-1\obj\Debug\31JulyAssignment19P-1.pdb
